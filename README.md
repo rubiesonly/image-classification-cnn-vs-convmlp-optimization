@@ -148,3 +148,13 @@ Transfer learning using pre-trained models (e.g., ResNet-50, EfficientNet)
 Advanced data augmentation techniques (e.g., CutMix, FMix)
 Bayesian Optimization or Hyperband for more efficient hyperparameter search
 Deeper ConvMLP configurations where computational resources allow
+
+## Disclaimer
+This project was developed for academic and research purposes to explore deep learning optimization techniques for image classification using the CIFAR-10 dataset.
+The implementation is intended for experimental and educational use only. Model performance results may vary depending on hardware configuration, random initialization, library versions, and training conditions.
+
+All dataset rights belong to the original creators:
+CIFAR-10 dataset — Department of Computer Science, University of Toronto  
+https://www.cs.toronto.edu/~kriz/cifar.html
+
+This repository does not claim ownership of the dataset and uses it strictly for non-commercial research and learning purposes.
